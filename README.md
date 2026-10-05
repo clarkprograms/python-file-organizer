@@ -12,8 +12,8 @@ A Python program that automatically sorts files into folders based on their file
 ## What I learned
 
 - Python file and folder handling
+- Python-specific syntax and conventions
 - The os module
 - File extensions and paths
-- Dictionaries and lists
-- Functions, loops, and conditionals
 - Creating and moving files and folders
+- Application of programming concepts I already knew from Luau in Python
